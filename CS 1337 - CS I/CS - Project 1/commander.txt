@@ -1,0 +1,117 @@
+KKKK 3, N, 1
+BBB 3, W, 3
+DDDDD 3, E, 5
+JJ 2
+X 3, S, 8
+ZZZ 3, W, 1
+OOOOO 3, W, 2
+UU 3, N, 2
+G 1
+PP 1
+L 1
+QQQQ 3, N, 1
+WWWW 3, E, 3
+CC 3, N, 20
+MMM 3, E, 1
+XXXX 3, N, 1
+DD 3, W, 1
+S b
+KKK 3, W, 4
+BB B
+AA 2
+B 3, E, 20
+TTT 3, E, 1
+EEEE 3, W, 1
+YY 3, W, 1
+P 3, S, 24
+DDDD 1
+HHHHH 3, E, 7
+WWW 3, N, 1
+Z 3, N, 10
+III 3, E, 4
+EEEEE 3, S, 1
+SSS 1
+Y 1
+BBBBB 3, S, 1
+LLLLL 1
+RR 2
+AAAA 2
+GG 4
+PPP 3, E, 1
+AAAAA 1
+VV 3, W, 30
+II 3, W, 2
+R 3, N, 11
+AAA 1
+Q 3, W, 1
+IIII 3, E, 1
+WW 3, W, 1
+FFFF 2
+N 2
+HHHH 1
+TT 3, E, 9
+NNNNN 2
+T 3, W, 1
+CCC 2
+LLLL 4
+ZZ 4
+JJJJ 2
+KKKKK 3, S, 2
+QQ 3, W, 1
+EEE 1
+A 3, S, 16
+KK 3, E, 40
+GGGG 3, W, 1
+XX 3, S, 1
+QQQ 2
+FFFFF 3, W, 7
+LL 3, N, 1
+W 2
+HH 1
+RRR 3, E, 4
+CCCCC 2
+GGG 2
+V 3, S, 1
+H 3, E, 1
+SS 3, N, 1
+MMMM 1
+DDD 3, W, 5
+U 1
+J 3, E, 2
+OO 3, W, 8
+XXX 3, W, 4
+YYY 1
+SSSS 3, E, 1
+GGGGG 3, S, 1
+IIIII 3, S, 1
+C 2
+MM 3, E, 7
+VVV 3, E, 1
+MMMMM 3, N, 2
+BBBB 3, E, 76
+NN 3, N, 1
+EE 3, S, 12
+E 3, E, 7
+NNNN 3, S, 39
+M 3, S, 1
+CCCC 3, W, 1
+RRRR 2
+FFF 3, W, 1
+O 3, S, 12
+NNN 3, N, 32
+YYYY 3, W, 1
+LLL 3, N, 1
+FF 3, W, 6
+K 4
+ZZZZ 3, E, 2
+OOO 1
+I 2
+HHH 3, N, 1
+JJJJJ b
+UUU 2
+UUUU 3, N, 1
+JJJ 3, N, 1
+F 3, N, 18
+D B
+VVVV 2
+TTTT 1
